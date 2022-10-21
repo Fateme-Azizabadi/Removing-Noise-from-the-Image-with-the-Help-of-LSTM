@@ -44,7 +44,7 @@ Then we select 80% of the pixels as train data and 20% for Validation and Test. 
 
 First, we separate the RGB vectors and add Gaussian noise to each with a variance of 100 and a mean of zero. The original image and the noisy image are shown in the figure below. The vectors R, G, and B are the network's inputs.
 
-![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-the-Image-with-the-Help-of-LSTM/blob/main/Images/Original.Image.png)
+![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-the-Image-with-the-Help-of-LSTM/blob/main/Images/color.png)
 
 ![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-the-Image-with-the-Help-of-LSTM/blob/main/Images/Salty.Pepper.Noise.png)
 
