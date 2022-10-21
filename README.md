@@ -46,8 +46,6 @@ First, we separate the RGB vectors and add Gaussian noise to each with a varianc
 
 ![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-the-Image-with-the-Help-of-LSTM/blob/main/Images/color.png)
 
-![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-the-Image-with-the-Help-of-LSTM/blob/main/Images/Salty.Pepper.Noise.png)
-
 Then we consider 80% of the data as Train data and 20% as Validation and Test data. The vectors R, G, and B are the network's inputs. **So the input data is 3D.**
 
 ![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-the-Image-with-the-Help-of-LSTM/blob/main/Images/Color.LSTM.png)
